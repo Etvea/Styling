@@ -1,7 +1,23 @@
-body {
-  background-color: brown;
+/* :root {
+    --color-primary: yellowgreen;
+
 }
 
-h1 {
-  color: aqua;
+body {
+    background-color:var(--color-primary);
+} */
+/* $color-primary: yellowgreen;
+body {
+    background-color: $color-primary;
+} */
+section {
+  background-color: #303960;
+}
+
+h2 {
+  color: #ea9a96;
+}
+
+p {
+  color: #fff;
 }/*# sourceMappingURL=style.css.map */
